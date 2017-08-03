@@ -1,0 +1,120 @@
+.db{
+    background-color: black;
+    height: 66px;
+}
+
+.bk{
+       background-color: #222;
+    border-color: #080808;
+}
+
+
+.navbar-brand{
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 10px;
+    line-height: 20px;
+    margin-top: 8px;
+}
+
+
+.navbar-nav>li>a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 11px;
+    margin-top: 8px;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: darkgoldenrod !important;
+}
+.navbar-inverse .navbar-brand {
+    color: wheat !important;
+}
+
+.bag{
+
+    margin-left: -6px;
+}
+
+.cnt{
+    margin-left: 5px;
+    background-color: orange;
+    width: 50px;
+    height: 30px;
+    border-radius: 100px;
+    padding: 1px;
+}
+
+.mbtn{
+    background-color: black !important;
+    border:black !important;
+}
+
+.dropdown{
+        margin-top: 16px;
+}
+
+.fa-shopping-bag:before {
+    content: "\f290";
+    color: orange;
+}
+.nvcrt{
+    width: 400px;
+}
+.pro_img{
+    width: 50px ;
+}
+.media-body, .media-left, .media-right {
+    display: table-cell;
+    vertical-align: top;
+    padding: 1px;
+}
+
+.media-left, .media>.pull-left {
+    padding-right: 10px;
+    padding: 4px;
+}
+.media-body h4{
+    font-size: 14px;
+    margin-top: 6px;
+    margin-bottom: 5px;
+}
+.media-body a{
+    font-size: 10px;
+}
+
+.media-body p{
+    font-size: 10px;
+    margin-right: 6px;
+}
+.mbor{
+        border-bottom: 1px solid lavender;
+}
+
+.mar{
+    padding: 14px;
+}
+
+.subrow{
+   background-color: black;
+    width: 103%;
+   margin-left: -4px !important; 
+    height: 24px;
+}
+.cart{
+    color: wheat;
+    margin-top: 6px;
+    cursor: pointer;
+}
+.heart{
+     color: wheat;
+    margin-top: 6px;
+    cursor: pointer;
+
+}
+.eye{
+    color: wheat;
+    margin-top: 6px;
+    cursor: pointer;
+}
